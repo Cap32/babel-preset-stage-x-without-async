@@ -1,0 +1,25 @@
+{
+  "name": "babel-preset-stage-1-without-async",
+  "version": "1.0.0",
+  "description": "Use stage-1 Babel features without `transform-async-generator-functions`",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "babel",
+    "babel-preset",
+    "async",
+    "await"
+  ],
+  "repository": "git@github.com:Cap32/babel-preset-stage-x-without-async.git",
+  "author": "3went2 <webb.png@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "modify-babel-preset": "^3.2.1"
+  },
+  "peerDependencies": {
+    "babel-preset-stage-1": "^6.0.0"
+  }
+}
