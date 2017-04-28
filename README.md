@@ -1,5 +1,5 @@
 # babel-preset-stage-x-without-async
-Use stage-x Babel features without `transform-async-generator-functions`
+Using babel-preset stage-0, stage-1, stage-2 or stage-3 without `transform-async-generator-functions`
 
 ## Packages
 
